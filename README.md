@@ -1,7 +1,4 @@
-<!-- WORKING BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/l3LYC7o.png" width="100%" alt="banner" />
-</p>
+
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
