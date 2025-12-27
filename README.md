@@ -10,64 +10,27 @@
 </p>
 
 ---
+# 💫 About Me:
+🔭 I’m currently working on<br>Building production-ready frontend and full-stack applications using React, TypeScript, Node.js, REST APIs, and modular component architectures.<br>👯 I’m looking to collaborate on<br>Open-source or industry-grade projects involving React, performance optimization, dashboards, data-driven UIs, and scalable web systems.<br>🤝 I’m looking for help with<br>Advanced frontend system design, performance tuning, and best practices for scaling large React applications.<br>🌱 I’m currently learning<br>AWS fundamentals, cloud-native concepts, and system design for scalable and maintainable applications.<br>💬 Ask me about<br>React internals, async JavaScript, API integration, debugging complex UI issues, and writing clean, maintainable code.
 
-# 👨‍💻 About Me
 
-I’m a **Full Stack Developer** passionate about scalable systems, MERN applications, LLM-based platforms, and high-performance UI/UX.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_k4krish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishlaykrishna05) 
 
-- 🔭 Software Developer Intern @ A GLOBE Holidays  
-- 🧠 Building LLM-powered chat apps, 3D visualizers, secure full-stack apps  
-- 💡 Strong with React, Node, TypeScript, MongoDB, PostgreSQL  
-- 🔐 JWT, Auth systems, MVC architecture, WebSockets  
-- 📚 DSA, OOP, DBMS, Software Engineering  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KrisJarvis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KrisJarvis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisJarvis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-📩 Email: **kishlaykrishna05@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/kishlaykrishna05**  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KrisJarvis&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-# 🛠️ Tech Stack
-
-### **Languages**
-JavaScript · TypeScript · C++ · Python  
-
-### **Frontend**
-React.js · Next.js · Tailwind CSS · Three.js · WebGL  
-
-### **Backend**
-Node.js · Express.js · Socket.IO · REST APIs  
-
-### **Databases**
-MongoDB · PostgreSQL · MySQL  
-
-### **Tools**
-Git · GitHub · Postman · Linux · Notion  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KrisJarvis&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=KrisJarvis&icon=0&color=3)](https://visitcount.itsvg.in)
 
-# 🔥 GitHub Streaks
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=KrisJarvis&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KrisJarvis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisJarvis&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph (2025)
-<p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/KrisJarvis?from=2025-01-01&to=2025-12-31" />
-</p>
-
----
-
-# 🟦 LIVE 2025 Contribution Counter
-
-```md
-![2025 Contributions](https://img.shields.io/github/commit-activity/y/KrisJarvis?style=for-the-badge&color=00eaff&label=2025%20Contributions)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
